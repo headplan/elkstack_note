@@ -1,3 +1,10 @@
-# My Awesome Book
+# 关于
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**ELKstack 中文指南**
+
+https://github.com/chenryn/ELKstack-guide-cn
+
+https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details
+
+
+
